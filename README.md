@@ -9,3 +9,5 @@
 * ``assets/`` : ce dossier contient les ressources web (images, fichiers css et js, etc.).
 
 * ``index.html`` : page d'acueil du site.
+* ``question-details.html`` : page qui affiche une question et ses réponses.
+* ``ask.html`` : page permettant de publier une question.
