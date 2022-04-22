@@ -11,3 +11,6 @@
 * ``index.html`` : page d'acueil du site.
 * ``question-details.html`` : page qui affiche une question et ses réponses.
 * ``ask.html`` : page permettant de publier une question.
+* ``login.html`` : page de connexion (authentification)
+* ``register.html`` : page d'inscription
+  
